@@ -1,5 +1,5 @@
 import json
-from models import User, Book  # Updated import statement
+from models import User, Book
 
 class Storage:
     """Handles data persistence for users and books."""
