@@ -1,4 +1,4 @@
-from models import User  # Import the User class from models.py
+from models import User  
 from storage import Storage
 
 def add_user(name, user_id, storage):
